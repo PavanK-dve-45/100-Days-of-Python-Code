@@ -20,11 +20,5 @@ Welcome to the **100 Days of Python Code Challenge** repository! This project is
 - Building CLI Tools
 - And much more!
 
-## How to Use:
-1. **Clone the repository** to get access to the daily challenges.
-2. Start from **Day 1** and complete each day's challenge as you go.
-3. Feel free to adapt the schedule to your learning pace, but try to stay consistent.
-
----
 
 Let’s code our way to Python mastery—one day at a time!
